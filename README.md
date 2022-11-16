@@ -8,7 +8,7 @@ stored in packages.
 #### The following are the functions:
 - Adding funds to your account 
 - Withdrawing funds from your account
-- Transfering/Sending money between accounts
+- Transferring/Sending money between accounts
 - Requesting money from other users. A notification is sent to the user, from whom the customer would like to request money.
 - Deleting your account
 - Signing out
